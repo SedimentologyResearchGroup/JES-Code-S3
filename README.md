@@ -64,7 +64,7 @@ pip install -r requirements.txt
 Ensure `Dataset-Case-3-2.csv` is in the **same directory** as the Python scripts.
 
 **Dataset specifications**:
-- **Sample size**: n = 476 ooid samples
+- **Sample size**: n = 476 samples
 - **Required columns**: `Mn/Sr`, `Mn/Fe`, `Sr/Ca`
 - **Data format**: Numeric values (atomic ratios)
 
@@ -237,8 +237,8 @@ If you use this code in your research, please cite:
 
 For questions or issues related to this code, please contact:
 
-- **Corresponding Author**: [Name] ([email@institution.edu])
-- **Code Developer**: [Name] ([email@institution.edu])  
+- **Corresponding Author**: [Fei Li] ([lifei@swpu.edu.cn])
+- **Code Developer**: [Fei Li] ([lifei@swpu.edu.cn])  
   (Code development assisted by large language models Claude and Gemini for optimization and documentation)
 
 ---
